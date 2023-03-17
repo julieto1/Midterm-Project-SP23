@@ -5,4 +5,6 @@ Some of my hobbies include hiking, reading, watching sitcoms, and going to coffe
 
 [Information about the hike](https://mostateparks.com/park/castlewood-state-park)
 
+![](https://th.bing.com/th/id/OIP.wsvU3T8DMe1xDk2Ow24stwHaF8?w=216&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+
 ## [Navigate back to the homepage](README.md)
