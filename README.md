@@ -9,3 +9,5 @@ Hello! My name is Julie To and I am an Information Technology student here at Mi
 [This link will tell you about my education!](https://github.com/julieto1/Midterm-Project-SP23/blob/ca650d607d8c8a0517eef7fec8110a005c8bc8a5/Education.md)
 
 [This link will take you to a Python program I coded this year!](https://github.com/julieto1/Midterm-Project-SP23/blob/9785d109a07a2079e748711a9a061345c24fa863/volume_calculator.py)
+
+[This link will tell you about my hobbies!](https://github.com/julieto1/Midterm-Project-SP23/blob/e9e1f7c1bcb500d078acf49da389bd98f27e1d49/Hobbies.md)
