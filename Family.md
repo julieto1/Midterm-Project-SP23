@@ -10,4 +10,4 @@ I am from St. Louis, Missouri and I am the third of four children. My siblings i
 I have a mom named Mai and a dad named Simon. I am half Chinese and half Vietnamese. I also have three dogs named Midnight, Rocko, and Luna.
 
 
-[Navigate back to the homepage](https://github.com/julieto1/Midterm-Project-SP23/blob/11bf392acb18c891822438a2b3a865e2995c6bad/README.md)
+[Navigate back to the homepage](README.md)
