@@ -4,4 +4,4 @@ I am a freshman here at Mizzou and I am working towards my bachelor's degree in 
 ![Mizzou](https://logodix.com/logo/254677.png)
 [MU Information Technology](https://majors.missouri.edu/information-technology-bs/)
 
-[Navigate back to the homepage](README.md)
+## [Navigate back to the homepage](README.md)
