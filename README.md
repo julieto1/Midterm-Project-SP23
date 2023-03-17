@@ -4,7 +4,7 @@
 Hello! My name is Julie To and I am an Information Technology student here at Mizzou! This page will navigate you to a series of pages that introduce me to you!
 
 This first link will tell you about my family!
-[Family](https://github.com/julieto1/Midterm-Project-SP23/blob/a6fe2344264244f006ae101d96d20ac9017fd622/Family.md)
+[This first link will tell you about my family!](https://github.com/julieto1/Midterm-Project-SP23/blob/a6fe2344264244f006ae101d96d20ac9017fd622/Family.md)
 
 This link will tell you about my education!
-[Education](https://github.com/julieto1/Midterm-Project-SP23/blob/ca650d607d8c8a0517eef7fec8110a005c8bc8a5/Education.md)
+[This link will tell you about my education!](https://github.com/julieto1/Midterm-Project-SP23/blob/ca650d607d8c8a0517eef7fec8110a005c8bc8a5/Education.md)
