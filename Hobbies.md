@@ -4,3 +4,5 @@ Some of my hobbies include hiking, reading, watching sitcoms, and going to coffe
 [Link to the book!](https://www.amazon.com/Shades-Lovers-Catarine-Hancock/dp/1771682221/ref=sr_1_1?crid=192XMJJNIWWQ1&keywords=shades+of+lovers+catarine+hancock&qid=1679016018&sprefix=shades+of+lovers%2Caps%2C360&sr=8-1)
 
 [Information about the hike](https://mostateparks.com/park/castlewood-state-park)
+
+## [Navigate back to the homepage](https://github.com/julieto1/Midterm-Project-SP23/blob/11bf392acb18c891822438a2b3a865e2995c6bad/README.md)
